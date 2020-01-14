@@ -1,1 +1,13 @@
+.project
+.classpath
+.metadata
+.settings
+.DS_Store
+*.log
+.pmd
+*.iml
+*.ipr
+.idea
+*.jar
+.editorconfig
 node_modules
